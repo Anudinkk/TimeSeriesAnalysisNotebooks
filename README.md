@@ -12,7 +12,6 @@ Time series analysis is used to analyze data collected over consistent time inte
 * Seasonality
 * Cyclic behavior
 * Noise
-* Forecasting future values
 
 This notebook provides both theoretical explanations and practical examples.
 
